@@ -16,5 +16,6 @@ public class EstruturaDeDados {
         for (String nome : nomes) {
             System.out.println("O nome é " + nome);
         }
+        nomes.forEach((System.out::println));
     }
 }
