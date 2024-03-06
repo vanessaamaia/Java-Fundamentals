@@ -34,7 +34,7 @@ public class PrimeiraClasse {
          while (valorInicial < 3) {
             System.out.println("O valor inicial é menor que 3");
             System.out.println(valorInicial);
-            valorInicial ++; // atribuir mais 1
+            valorInicial ++;
          }
 
          System.out.println("Saiu do while");
