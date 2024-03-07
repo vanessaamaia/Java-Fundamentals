@@ -1,3 +1,4 @@
+package primeirasAulas;
 // Executando classe no terminal: java PrimeiraClasse.java
 
 /*
