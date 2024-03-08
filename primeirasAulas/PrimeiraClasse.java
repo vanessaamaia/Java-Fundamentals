@@ -17,9 +17,9 @@ public class PrimeiraClasse {
          */
 
          int dadoDoTipoInt = 10; // números inteiros
-         double dadoDoTipoDouble = 3.14; // números de ponto flutuante
-         float dadoDoTipoFloat = 4.15f; // números de ponto flutuante com menas precisão
-         long dadoDoTipoLong = 5156854841468l; // números inteiros muito grandes
+         // double dadoDoTipoDouble = 3.14; // números de ponto flutuante
+         // float dadoDoTipoFloat = 4.15f; // números de ponto flutuante com menas precisão
+         // long dadoDoTipoLong = 5156854841468l; // números inteiros muito grandes
 
          // if e else (se e senão)
          if (dadoDoTipoInt == 11) {
